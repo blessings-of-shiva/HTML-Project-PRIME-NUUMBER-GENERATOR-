@@ -1,6 +1,10 @@
 body {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    background: url('prime.png') no-repeat;
+    background: url('prime.png');
+    background-size: cover; 
+    background-repeat: no-repeat;
+    background-attachment:scroll; 
+    background-position: center;
     margin: 0;
     padding: 0;
 }
